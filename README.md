@@ -8,7 +8,6 @@
 <p>我们只是更丑的猫而已。</p>  
 <p>私たちはただのもっと醜い猫です。</p>  
 <p>우리는 그저 더 못생긴 고양이일 뿐이야.</p>  
-<p>نحن جميعًا مجرد قطط أقبح.</p>  
 <p>Hepimiz sadece daha çirkin kedileriz.</p>  
 <p>Είμαστε όλοι απλώς πιο άσχημες γάτες.</p>  
 <p>Wszyscy jesteśmy po prostu brzydszymi kotami.</p>  
