@@ -1,1 +1,5 @@
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=flyinglv3601&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://git-hub-streak-stats.vercel.app?user=flyinglv3601&theme=black-ice&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
