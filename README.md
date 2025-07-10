@@ -1,20 +1,2 @@
 <p align="center">We are all just ugly kittens.</p>
-<p align="center">Nous sommes tous juste de vilains chatons.</p>
-<p align="center">Wir sind alle einfach hässliche Kätzchen.</p>
-<p align="center">Todos somos solo gatitos feos.</p>
-<p align="center">Siamo tutti solo brutti gattini.</p>
-<p align="center">Somos todos apenas gatinhos feios.</p>
-<p align="center">Wszyscy jesteśmy tylko brzydkimi kociętami.</p>
-<p align="center">Ми всі просто потворні кошенята.</p>
-<p align="center">Мы ўсе проста брыдкія кацяняты.</p>
-<p align="center">Mēs visi esam vienkārši neglīti kaķēni.</p>
-<p align="center">Jsme všichni jen ošklivá koťátka.</p>
-<p align="center">Ми смо сви само ружни мачићи.</p>
-<p align="center">Svi smo samo ružni mačići.</p>
-<p align="center">Hepimiz sadece çirkin yavru kedileriz.</p>
-<p align="center">Είμαστε όλοι απλώς άσχημα γατάκια.</p>
-<p align="center">Suntem toți doar niște pisicuțe urâte.</p>
-<p align="center">Mindannyian csak csúnya kiscicák vagyunk.</p>
-<p align="center">私たちは皆ただの醜い子猫です。</p>
-<p align="center">我们全都是丑陋的小猫。</p>
-<p align="center">نحن جميعًا مجرد قطط صغيرة قبيحة.</p>
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=flyinglv3601&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
