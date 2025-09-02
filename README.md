@@ -1,3 +1,4 @@
+<div style= "  max-width: fit-content;margin-left: auto;margin-right: auto;">
 <p align="center">
   <a href="https://git.io/streak-stats">
     <h1>LV3601</h1>
@@ -6,3 +7,4 @@
     <img src="https://git-hub-streak-stats.vercel.app?user=flyinglv3601&theme=black-ice&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+</div>
