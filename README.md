@@ -1,11 +1,15 @@
-<div style= "  max-width: fit-content;margin-left: auto;margin-right: auto;">
-<p align="center">
-   <div>
-        <font>LV3601</font> <br>
-       <img src="https://s.namemc.com/3d/skin/body.png?id=7df6b5ddb821fe23&model=classic&theta=30&phi=21&time=90&width=600&height=800" width="400">
-   </div>
-  <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app?user=flyinglv3601&theme=black-ice&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-</div>
+<div align="center">
+
+[![header](https://raw.githubusercontent.com/Fly1ngL3xmi/fly1ngl3xmi/refs/heads/main/assets/header.png)](https://github.com/Fly1ngL3xmi)
+
+## My name is lv3601, and I’m an active Minecraft player since 2022. You can meet me on servers 0b0t and 2b2t.org.ru
+
+[![skin](https://s.namemc.com/3d/skin/body.png?id=7df6b5ddb821fe23&model=classic&theta=32&phi=22&time=1146.86&width=100&height=200)]
+
+
+### member of crimson rise(not anymore)
+
+### stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyinglexmi&layout=compact&theme=tokyonight)
+
+</div
