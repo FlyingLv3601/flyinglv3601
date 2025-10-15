@@ -5,4 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyinglv3601&layout=compact&theme=tokyonight">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=flyinglv3601&theme=merko" alt="GitHub Streak" />
 
+
+
+<p>leetCode</p><a>https://leetcode.com/u/flyinglv3601/</a>
+<p>codeWars</p><a>https://www.codewars.com/users/FlyingLv3601</a>
 </div>
