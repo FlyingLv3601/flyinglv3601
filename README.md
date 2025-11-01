@@ -8,5 +8,6 @@
 
 
 <p>leetCode</p><a>https://leetcode.com/u/flyinglv3601/</a>
-<p>codeWars</p><a>https://www.codewars.com/users/FlyingLv3601</a>
+<p>codeWars</p><a>https://www.codewars.com/users/FlyingLv3601</a><br>
+<a href="https://osu.ppy.sh/u/AzukaTan"><img src="/skills?user=AzukaTan&mode=std&lang=en&animation=true" /></a>
 </div>
